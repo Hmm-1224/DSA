@@ -16,5 +16,5 @@ This project implements a train route optimizer using data structures such as ha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hmm-1224/train_route_optimizer.git
+   git clone https://github.com/Hmm-1224/DSA.git
    cd train_route_optimizer
